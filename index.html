@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Login</title>
+
+    <link rel="stylesheet" href="./css/bootstrap.min.css" />
+    <link rel="stylesheet" href="./css/style.css" />
+  </head>
+  <body>
+    <section class="my-5">
+      <div class="container text-center shadow-lg py-5 w-75">
+        <h1>Smart Login System</h1>
+
+        <div class="d-flex flex-column align-items-center py-3">
+          <input
+            id="nameInput"
+            type="text"
+            class="form-control w-75"
+            placeholder="Enter your name"
+          />
+
+          <input
+            id="emailInput"
+            type="text"
+            class="form-control my-3 w-75"
+            placeholder="Enter your email"
+          />
+
+          <input
+            id="passwordInput"
+            type="password"
+            class="form-control w-75 my-3"
+            placeholder="Enter your password"
+          />
+
+          <span class="d-none text-danger"></span>
+
+          <button class="form-control my-3 w-75 signUp" type="submit">
+            Sign Up
+          </button>
+
+          <p class="text-white">
+            You have an accout? <a href="login.html">Signin</a>
+          </p>
+        </div>
+      </div>
+    </section>
+
+    <script src="./js/bootstrap.bundle.min.js"></script>
+    <script src="./js/index.js"></script>
+  </body>
+</html>
