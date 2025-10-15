@@ -65,11 +65,11 @@ It securely stores user credentials using the browser’s **localStorage** and v
 ## ⚙️ How to Run Locally
 
    ```bash
-1. *Clone the repository*:
-   git clone https://github.com/alaamarey/LogIn-System.git
+1. Clone the repository:
+      git clone https://github.com/alaamarey/LogIn-System.git
 
-2. *Open the folder*:
-    cd Login-System
+2. Open the folder:
+      cd Login-System
 
 3.Open index.html directly in your browser — no server needed.
 
