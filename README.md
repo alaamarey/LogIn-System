@@ -32,13 +32,7 @@ It securely stores user credentials using the browser’s **localStorage** and v
 
 ---
 
-## 📸 Preview
 
-![Website Screenshot](./images/screenshot.png)
-
-> *(Add a screenshot of your login page — put the image inside an `images` folder in your repo and name it `screenshot.png`)*  
-
----
 
 ## 🧩 How It Works
 
